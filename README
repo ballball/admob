@@ -1,0 +1,9 @@
+
+Requires Xcode 4.2 and Marmalade 5.2
+
+before clicking "Run" to compile extionsion
+
+Go to File (menu in Xcode) - Add Files to "admob_iphone"
+and select GoogleAdMobAdsSDKiOS-5.0.5/libGoogleAdMobAds.a
+
+Other files are already added to project.
